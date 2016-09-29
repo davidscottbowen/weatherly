@@ -1,0 +1,16 @@
+Google Maps API Key:
+AIzaSyBsQ0aDIzCE6C6YHgwYmWOKGK6gn1_xChU
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyBsQ0aDIzCE6C6YHgwYmWOKGK6gn1_xChU
+
+Paintsville weather google api
+https://maps.googleapis.com/maps/api/geocode/json?address=41240&key=AIzaSyBsQ0aDIzCE6C6YHgwYmWOKGK6gn1_xChU
+
+
+
+
+Dark Sky (Weather) API Key:
+
+7e9f8f5bd991958121863a390874566c
+https://api.darksky.net/forecast/7e9f8f5bd991958121863a390874566c/37.8267,-122.4233
+
+
